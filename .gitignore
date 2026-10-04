@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+
+google-services.json
+GoogleService-Info.plist
+
+*.log
+
+dist/
+build/
+
+.DS_Store
+Thumbs.db
